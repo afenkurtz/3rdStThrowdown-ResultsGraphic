@@ -1,2 +1,2 @@
 Evan Kurtz- v1.0 - 04/09/2026 - Initial release. 
-Evan Kurtz- v2.0 - 04/09/2026 - Adjusted bottom cards to fit 8 total slots (top 8), as this was overlooked on release.
+Evan Kurtz- v2.0 - 04/18/2026 - Adjusted bottom cards to fit 8 total slots (top 8), as this was overlooked on release.
